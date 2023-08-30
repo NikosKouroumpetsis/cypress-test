@@ -4,7 +4,7 @@ import styles from './overview.module.css'
 const items = [
     {
       summary: 'Step 1) Clone my repo',
-      details: 'git clone https://github.com/coderyansolomon/cypress-course.git',
+      details: 'git clone https://github.com/NikosKouroumpetsis/cypress-test',
       id: '1',
     },
     {
