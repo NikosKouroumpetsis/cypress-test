@@ -9,17 +9,17 @@ const items = [
     },
     {
       summary: 'Step 2) Install dependencies',
-      details: 'npm install',
+      details: 'yarn install',
       id: '2',
     },
     {
       summary: 'Step 4) Run app',
-      details: 'npm run dev',
+      details: 'yarn run dev',
       id: '3',
     },
     {
       summary: 'Step 4) Install Cypress',
-      details: 'npm install cypress --save-dev',
+      details: 'yarn add cypress --dev',
       id: '4',
     },
     {
